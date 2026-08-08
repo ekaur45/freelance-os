@@ -8,6 +8,12 @@
 - Entity Framework Core
 - Node.js
 - NestJS
+- PHP
+- Laravel
+- CodeIgniter
+- Python
+- Django
+- Flask
 
 ## Frontend
 - Angular
